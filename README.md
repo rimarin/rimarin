@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🎓 I’m currently studying Computer Science at the Technical University of Berlin
+- 🔭 I’m currently working at Mbition
+- 🌱 I’m currently learning about databases, distributed and scalable systems
+
 <!--
 **rimarin/rimarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
