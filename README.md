@@ -4,7 +4,7 @@ Master student in Computer Science at the Technical University of Berlin, majori
 
 #### Projects
 
-- **Query Rewrite Optimization for NebulaStream**: contributed to the query optimizer of NebulaStream, an open source stream processing system for IoT, written in C++. Implemented query re-write rules from a proposed catalogue with tests validating the correctness. Performed experiments and evaluated the performance impact of new re-write rules.
+- **Query Rewrite Optimization for NebulaStream**: contributed to the query optimizer of [NebulaStream](https://github.com/nebulastream), an open source stream processing system for IoT, written in C++. Implemented query re-write rules from a proposed catalogue with tests validating the correctness. Performed experiments and evaluated the performance impact of new re-write rules.
 
 - **Hook-In Privacy Capabilities for gRPC**: Java library for enhancing privacy in gRPC, implementing Purpose Based Access Control and providing an extendable set of data minimization primitives.
 
