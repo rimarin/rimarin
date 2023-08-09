@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Master student in Computer Science at the Technical University of Berlin, majoring in database systems.
+Master student in Computer Science at the [Technical University of Berlin](https://www.tu.berlin/en/), majoring in database systems.
 
 #### Projects
 
