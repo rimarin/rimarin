@@ -4,7 +4,7 @@ Master student in Computer Science at the [Technical University of Berlin](https
 
 #### Projects
 
-- **Towards an Optimal Physical Layout for Efficient Query Processing** (ongoing): implemented one-dimensional and multi-dimensional structures (kd-tree, QuadTree, Hilbert Curve). Applied data partitioning in Parquet based on such structures. Benchmarked range queries across different dataset, workloads and partition size.
+- **Towards an Optimal Physical Layout for Efficient Query Processing** (ongoing): implemented several multi-dimensional data structures (FixedGrid, kd-tree, QuadTree, STRTree, Hilbert Curve). Applied data partitioning in Parquet based on these structures. Benchmarked range queries across different datasets, workloads and partition size.
 
 - **Query Rewrite Optimization for NebulaStream**: contributed to the query optimizer of [NebulaStream](https://github.com/nebulastream), an open source stream processing system for IoT, written in C++. Implemented query re-write rules from a proposed catalogue with tests validating the correctness. Performed experiments and evaluated the performance impact of new re-write rules.
 
