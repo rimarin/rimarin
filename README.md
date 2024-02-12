@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Master student in Computer Science at the [Technical University of Berlin](https://www.tu.berlin/en/), majoring in database systems.
-
-#### Ongoing projects:
-
-- **Towards an Optimal Physical Layout for Efficient Query Processing**: implemented several multi-dimensional data structures (FixedGrid, kd-tree, QuadTree, STRTree, Hilbert Curve). Applied data partitioning based on these structures, using C++ Arrow APIs and Parquet. Benchmarked range queries across different datasets, workloads and partition size.
+Master student in Computer Science at the [Technical University of Berlin](https://www.tu.berlin/en/).
+I like databases.
 
 <!--
 **rimarin/rimarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
