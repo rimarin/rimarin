@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Master student in Computer Science at the [Technical University of Berlin](https://www.tu.berlin/en/).
-
-I like databases.
+MSc Computer Science student at TU Berlin, interested in databases and distributed systems
 
 <!--
 **rimarin/rimarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
